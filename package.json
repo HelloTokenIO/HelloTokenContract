@@ -1,0 +1,24 @@
+{
+  "name": "hellotokencontract",
+  "version": "0.0.1",
+  "description": "ERC20 SmartContract for HelloNet Platform",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "zeppelin-solidity": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HelloToken",
+    "HelloNet",
+    "HelloNetPlatform",
+    "Contract"
+  ],
+  "author": "TeamHelloToken",
+  "license": "MIT"
+}
