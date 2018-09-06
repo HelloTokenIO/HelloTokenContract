@@ -1,6 +1,6 @@
 # Project
 
-##HelloToken
+## HelloToken
 
 # Main Token that fuels the HelloNet protocol
 	- Transferrable
